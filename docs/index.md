@@ -11,6 +11,10 @@
 - [Separating videos into frames](https://www.youtube.com/watch?v=ck11jOVYlIw)
 - [Deduping images](https://www.youtube.com/watch?v=KsIauWHwZFs)
 - Recording of squishing images to square (TK)
+- StyleGAN papers
+  - [StyleGAN (v1)](https://arxiv.org/abs/1812.04948)
+  - [StyleGAN2](https://arxiv.org/pdf/1912.04958.pdf)
+  - [StyleGAN2-ADA](https://arxiv.org/pdf/2006.06676.pdf)
 
 ### Homework
 - Get your server set up
