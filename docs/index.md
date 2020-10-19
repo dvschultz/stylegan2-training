@@ -21,3 +21,9 @@
 - Get your server set up
 - Collect a dataset (format it to square)
 - complete the co-working [poll](http://whenisgood.net/jsimqxp)
+
+
+## Week 2
+### Lecture Materials
+- [Lecture Slides](https://docs.google.com/presentation/d/1sIsPwCG6cw4isXXlhNeNucPoGUouZa0J2klxkSAguGA/edit?usp=sharing)
+- [Lecture Video](https://youtu.be/LArTgflsL98)
