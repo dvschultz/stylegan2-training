@@ -34,6 +34,8 @@
 - [Lecture Video](https://youtu.be/h0zwLMIt-hI)
 
 ### Additional Class Notes
+- [Audioractive Notebook](https://github.com/dvschultz/stylegan2-training/blob/main/StyleGAN2_ADA_AudioReactive_Pitch.ipynb)
+- [.pkl to .pt Notebook](https://github.com/dvschultz/stylegan2-training/blob/main/Convert_pkl_to_pt.ipynb)
 - [Robert Luxemburg’s Shockwave](https://twitter.com/robertluxemburg/status/1207087801344372736
 )
 - [Align Faces script](https://github.com/pbaylies/stylegan-encoder/blob/master/align_images.py)
