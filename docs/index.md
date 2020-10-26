@@ -27,3 +27,8 @@
 ### Lecture Materials
 - [Lecture Slides](https://docs.google.com/presentation/d/1sIsPwCG6cw4isXXlhNeNucPoGUouZa0J2klxkSAguGA/edit?usp=sharing)
 - [Lecture Video](https://youtu.be/LArTgflsL98)
+
+## Week 3
+### Lecture Materials
+- [Lecture Slides](https://docs.google.com/presentation/d/1wwG9g1fUolMUuYpp7-wU-5qRPpMkKZGyZUUKojBMdlU/edit?usp=sharing)
+- [Lecture Video](https://youtu.be/h0zwLMIt-hI)
