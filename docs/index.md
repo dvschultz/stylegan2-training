@@ -32,3 +32,9 @@
 ### Lecture Materials
 - [Lecture Slides](https://docs.google.com/presentation/d/1wwG9g1fUolMUuYpp7-wU-5qRPpMkKZGyZUUKojBMdlU/edit?usp=sharing)
 - [Lecture Video](https://youtu.be/h0zwLMIt-hI)
+
+### Additional Class Notes
+- [Robert Luxemburg’s Shockwave](https://twitter.com/robertluxemburg/status/1207087801344372736
+)
+- [Align Faces script](https://github.com/pbaylies/stylegan-encoder/blob/master/align_images.py)
+- [StyleGAN2 Deep Dive class](https://www.youtube.com/playlist?list=PLWuCzxqIpJs-l4OygaHssyydjOu-AWoHv) (Last 2 sessions are helpful to continue your learning)
